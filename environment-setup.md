@@ -1,6 +1,6 @@
 # How to Setup Your Ruby Environment
 
-This guide will walk you through the steps for setting up a full functioning Ruby environment setup on your local machine. The process varies depending on your operating system.
+This guide will walk you through the steps for setting up a full functioning Ruby environment setup on your local machine. The process varies depending on your operating system. If you have access to an Apple computer running a recent version of OS X or a desktop Linux version, I'd highly recommend using it. Although the tools for Windows have greatly improved over the last few years, development is still smoothest on a *-nix based operating system. 
 
 ## Mac OS X
 
@@ -59,5 +59,3 @@ And that's it!
 ## Windows
 
 Download [RailsInstaller](http://railsinstaller.org/en) for Windows and check out the installation help video.
-
-
