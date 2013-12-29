@@ -56,4 +56,8 @@ Run `ruby -v` and you should see something to the effect of `ruby 2.0.0p247 (...
 
 And that's it!
 
+## Windows
+
+Download [RailsInstaller](http://railsinstaller.org/en) for Windows and check out the installation help video.
+
 
