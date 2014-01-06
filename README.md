@@ -47,7 +47,7 @@ I look forward to embarking on this journey with you!
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/02.md">2</a></td>
       <td>Wed, January 8</td>
-      <td>Beginning the User Interface</td>
+      <td>User Registration &amp; Authentication</td>
     </tr>
 
     <tr>
