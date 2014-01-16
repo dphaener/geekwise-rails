@@ -59,13 +59,13 @@ I look forward to embarking on this journey with you!
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/04.md">4</a></td>
       <td>Wed, January 15</td>
-      <td>User Authentication &amp; Registration </td>
+      <td>Conditional Validations, Callbacks &amp; Testing</td>
     </tr>
 
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/05.md">5</a></td>
       <td>Mon, January 20</td>
-      <td>TBD</td>
+      <td>User Registration &amp; Authentication</td>
     </tr>
 
     <tr>
