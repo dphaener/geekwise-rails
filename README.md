@@ -71,7 +71,7 @@ I look forward to embarking on this journey with you!
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/06.md">6</a></td>
       <td>Wed, January 22</td>
-      <td>Authentication</td>
+      <td>Authentication &amp; Associations</td>
     </tr>
 
     <tr>
