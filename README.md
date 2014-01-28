@@ -77,13 +77,13 @@ I look forward to embarking on this journey with you!
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/07.md">7</a></td>
       <td>Mon, January 27</td>
-      <td>Associations</td>
+      <td>Forms &amp; Partials</td>
     </tr>
 
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/08.md">8</a></td>
       <td>Wed, January 29</td>
-      <td>TBD</td>
+      <td>Associations</td>
     </tr>
 
     <tr>
