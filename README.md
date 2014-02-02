@@ -89,7 +89,7 @@ I look forward to embarking on this journey with you!
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/09.md">9</a></td>
       <td>Mon, February 3</td>
-      <td>TBD</td>
+      <td>Advanced Associations</td>
     </tr>
 
     <tr>
