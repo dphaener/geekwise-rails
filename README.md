@@ -101,7 +101,7 @@ I look forward to embarking on this journey with you!
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/11.md">11</a></td>
       <td>Mon, February 10</td>
-      <td>TBD</td>
+      <td>More Exercises</td>
     </tr>
 
     <tr>
