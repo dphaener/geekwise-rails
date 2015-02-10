@@ -36,9 +36,9 @@ Once Homebrew is installed, run the following:
     brew install rbenv ruby-build
 
 This will install rbenv and ruby-build, a little utility that will download and compile ruby versions for you. After
-installation, you'll need to add a line to your bash profile using `pico` (or your favorite text editor):
+installation, you'll need to add a line to your bash profile using `nano` (or your favorite text editor):
 
-    pico ~/.bash_profile
+    nano ~/.bash_profile
 
 Paste the following at the end of the file:
 

@@ -21,7 +21,7 @@ features not included in this spec.
 - At least one model with a belongs_to relationship
 - Validations on models
 - Integrate some sort of [pagination](https://github.com/mislav/will_paginate) in your views
-- Well-formed HTML (ERB) views with basic CSS styling (hand-coded please)
+- Well-formed HTML (ERB) views with basic CSS styling
 
 ### Other Requirements
 
