@@ -62,7 +62,7 @@ I look forward to embarking on this journey with you!
 
     <tr>
       <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/03.md">3</a></td>
-      <td>Mon, January 13</td>
+      <td>Tuesday, February 24</td>
       <td>Validations &amp; Unit Testing</td>
     </tr>
 <!---
