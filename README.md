@@ -71,19 +71,19 @@ I look forward to embarking on this journey with you!
       <td>Thursday, February 26</td>
       <td>Conditional Validations, Callbacks &amp; Testing</td>
     </tr>
-<!---
+
     <tr>
-      <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/05.md">5</a></td>
-      <td>Mon, January 20</td>
+      <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/05.md">5</a></td>
+      <td>Tuesday, March 3</td>
       <td>User Registration</td>
     </tr>
 
     <tr>
-      <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/06.md">6</a></td>
-      <td>Wed, January 22</td>
+      <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/06.md">6</a></td>
+      <td>Thursday, March 5</td>
       <td>Authentication</td>
     </tr>
-
+<!---
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/07.md">7</a></td>
       <td>Mon, January 27</td>
