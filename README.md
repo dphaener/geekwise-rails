@@ -83,19 +83,19 @@ I look forward to embarking on this journey with you!
       <td>Thursday, March 5</td>
       <td>Authentication</td>
     </tr>
-<!---
+
     <tr>
-      <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/07.md">7</a></td>
-      <td>Mon, January 27</td>
+      <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/07.md">7</a></td>
+      <td>Tuesday, March 10</td>
       <td>Forms &amp; Partials</td>
     </tr>
 
     <tr>
-      <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/08.md">8</a></td>
-      <td>Wed, January 29</td>
+      <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/08.md">8</a></td>
+      <td>Thursday, March 12</td>
       <td>Associations</td>
     </tr>
-
+<!---
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/09.md">9</a></td>
       <td>Mon, February 3</td>
