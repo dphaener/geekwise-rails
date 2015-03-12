@@ -95,13 +95,13 @@ I look forward to embarking on this journey with you!
       <td>Thursday, March 12</td>
       <td>Associations</td>
     </tr>
-<!---
-    <tr>
-      <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/09.md">9</a></td>
-      <td>Mon, February 3</td>
-      <td>Advanced Associations</td>
-    </tr>
 
+    <tr>
+      <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/09.md">9</a></td>
+      <td>Tuesday, March 17</td>
+      <td>More Associations & UX/UI</td>
+    </tr>
+<!---
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/10.md">10</a></td>
       <td>Wed, February 5</td>
