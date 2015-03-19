@@ -105,7 +105,7 @@ I look forward to embarking on this journey with you!
     <tr>
       <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/10.md">10</a></td>
       <td>Thursday, March 19</td>
-      <td>Exercises</td>
+      <td>Nested Resources & Todos</td>
     </tr>
 <!---
     <tr>
