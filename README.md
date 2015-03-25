@@ -107,13 +107,13 @@ I look forward to embarking on this journey with you!
       <td>Thursday, March 19</td>
       <td>Nested Resources & Todos</td>
     </tr>
-<!---
-    <tr>
-      <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/11.md">11</a></td>
-      <td>Mon, February 10</td>
-      <td>More Exercises</td>
-    </tr>
 
+    <tr>
+      <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/11.md">11</a></td>
+      <td>Tuesday, March 24</td>
+      <td>Rails and CoffeeScript</td>
+    </tr>
+<!---
     <tr>
       <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/12.md">12</a></td>
       <td>Wed, February 12</td>
