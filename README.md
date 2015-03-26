@@ -113,12 +113,12 @@ I look forward to embarking on this journey with you!
       <td>Tuesday, March 24</td>
       <td>Rails and CoffeeScript</td>
     </tr>
-<!---
+
     <tr>
-      <td><a href="https://github.com/djreimer/geekwise-rails/blob/master/outlines/12.md">12</a></td>
-      <td>Wed, February 12</td>
-      <td>More Exercises</td>
+      <td><a href="https://github.com/dphaener/geekwise-rails/blob/master/outlines/12.md">12</a></td>
+      <td>Thursday, March 26</td>
+      <td>Advanced Rails and Wrap Up</td>
     </tr>
---->
+
   </tbody>
 </table>
